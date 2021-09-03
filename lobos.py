@@ -1,3 +1,12 @@
+#    _       _               
+#   | | ___ | |__   ___  ___ 
+#   | |/ _ \| '_ \ / _ \/ __|
+#   | | (_) | |_) | (_) \__ \
+#   |_|\___/|_.__/ \___/|___/
+#                            
+# A serial number generator for [/REDACTED]/
+
+
 import random
 import string
 
