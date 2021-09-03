@@ -1,0 +1,2 @@
+# lobos
+serial number generator 
