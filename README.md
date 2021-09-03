@@ -1,2 +1,2 @@
 # lobos
-serial number generator 
+A serial number generator for [REDACTED] 
